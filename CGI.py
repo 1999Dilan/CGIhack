@@ -3,7 +3,7 @@ print ("""pesan author = gunakan ya awaslu""")
 print ("""---------------------------------""") 
 
 
-print ("masukan pasword =vRimuru")
+print ("masukan pasword =19999Dilan")
 input ("masukan pw di atas =")
 
 
@@ -18,8 +18,8 @@ print ("selamat lu dah masuk kontol!")
 
 
 print("=====================================")
-print("||AUTHOR =vRimuru-sama||=============")
-print("||Team   =vRnekopoi.  ||=============")
+print("||AUTHOR =1999dilan||=============")
+print("||Team   =solo leveling ||=============")
 print("||tools hack  game    ||=============")
 print("||baca bismilah dulu  ||=============")
 print("=====================================")
@@ -45,7 +45,7 @@ pilih memek!!:
   maaf bro lu salah ketik jomblo seh""")
        
 print("""-----------hack game lu tools-----------""")
-print("            author = vRimuru-sama         ")
+print("            author = 1999Dilan         ")
 print("""
 pesan = pilih game lu yang mau lu hack gooblox!
   """)
